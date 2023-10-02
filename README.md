@@ -27,3 +27,8 @@ git commit -m "<commit name>"
 
 git push
 ```
+
+### 更新履歴
+|投稿日|カテゴリ|タイトル|見出し|
+|----|----|----|----|
+|2023/10/2|画像|[Replacing Labeled Real-image Datasets with Auto-generated Contours](/surveys/Replacing Labeled Real-image Datasets with Auto-generated Contours.ipynb)|数式で描かれた画像を用いて事前学習することで精度向上！|
