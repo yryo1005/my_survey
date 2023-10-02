@@ -31,4 +31,4 @@ git push
 ### 更新履歴
 |投稿日|カテゴリ|タイトル|見出し|
 |----|----|----|----|
-|2023/10/2|画像|[Replacing Labeled Real-image Datasets with Auto-generated Contours](/surveys/Replacing Labeled Real-image Datasets with Auto-generated Contours.ipynb)|数式で描かれた画像を用いて事前学習することで精度向上！|
+|2023/10/2|画像|[Replacing Labeled Real-image Datasets with Auto-generated Contours](https://github.com/yryo1005/my_survey/blob/main/surveys/Replacing%20Labeled%20Real-image%20Datasets%20with%20Auto-generated%20Contours.ipynb)|数式で描かれた画像を用いて事前学習することで精度向上！|
