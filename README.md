@@ -15,8 +15,10 @@
 - [ ] カテゴリ一覧の作成
 
 ### コマンド(自分用)
-` git add . `
+```
+git add .
 
-` git commit -m "<commit name>" `
+git commit -m "<commit name>"
 
-` git push -u origin master `  
+git push
+```
